@@ -24,6 +24,7 @@ const sumDiagonal = (maxIteration, initial1, initial2) =>{
     sum += previous2;
     next2 += 8;
   }
+  return sum
 }
 
 ejercicio()
